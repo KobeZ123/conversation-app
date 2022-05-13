@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "conversation-app",
+    "slug": "conversation-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
