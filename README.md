@@ -1,5 +1,5 @@
-# The Conversation App 
-# by Kobe Zheng 
+# The Conversation App by Kobe Zheng 
+
 Built with React Native 
 The Conversation App provides all the tools necessary to sharpen your speaking skills.
 Your virtual conversationalist peer can help you prepare for that next job interview, ace that simulated conversation task for your language final, or rehearse your witty responses for that upcoming blind date. 
