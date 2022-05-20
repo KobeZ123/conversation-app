@@ -7,5 +7,5 @@ The setup process is easy; simply paste or type ALL the prompts you would like t
 The Conversation App supports two formats of simulated conversation. Choose between AUTOPLAY and TEST MODE based on your scenario! <br/>
 
 # HOW TO USE THE APP
-<b>Enter your prompts into the text input!</b>
+<b>Enter your prompts into the text input!</b> <br/>
 ![conversation-app-input-page-3](https://user-images.githubusercontent.com/57577392/169604682-b86ae69e-f308-4e39-ba35-d7c828a4203f.PNG)
