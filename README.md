@@ -17,7 +17,7 @@ In our situation, we want to practice answering common job interview questions. 
 <b>Choose to SHUFFLE the prompts, AUTOPLAY the prompts, or enter TEST MODE with the prompts</b> <br/>
 ![conversation-app-output-page-3](https://user-images.githubusercontent.com/57577392/169605149-fc5aa6e1-3c79-47d8-8a38-93f0d5063329.PNG)
 <br/>
-<b>AUTOPLAY simulates a paced conversation where you can set the time between prompts given for your response</b>
+<b>AUTOPLAY simulates a paced conversation where you can set the time between prompts given for your responses</b> <br/>
 ![conversation-app-autoplay-page](https://user-images.githubusercontent.com/57577392/169605978-5c436c03-5e7b-4406-8a9a-cebd1f5a418a.PNG)
 <br/>
 <b>TEST MODE removes the conversation points to holistically test you with the prompts</b> <br/>
